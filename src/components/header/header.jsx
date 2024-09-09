@@ -2,7 +2,7 @@ import React from 'react'
 import './header.css'
 import CTA from './CTA'
 import ME from '../../assets/me.png'
-
+import MEE from '../../assets/my.jpg'
 import Headersocial from './Headersocial'
 
 const header = () => {
@@ -21,14 +21,14 @@ const header = () => {
   <span style={{color: 'w'}}>A</span>
 </h1>
 
-        <h5 className='text-light'>Python Full Stack Developer</h5>
+        <h5 className='text-light'> 🧑‍💻 Passionate Full-Stack Developer | 🚀 Cloud Enthusiast | 💡 Lifelong Learner 
+        </h5>
         <CTA /> 
         <Headersocial/>
-        
-
+       
         <div className='me'>
 
-            <img src={ME} alt="me" />
+            <img src={MEE} alt="me" />
         </div>
         <a href="#contact" className='scroll_down'>Scroll Down</a>
       </div>

@@ -4,8 +4,14 @@
     gap:15%;
 }
 
+
+
+
+
+
+
 .about_me{
-    width: 100%;
+    width: 70%;
     aspect-ratio: 1/1;
     border-radius: 2rem;
     background: linear-gradient(45deg,transparent,var(--color-primary),transparent);
@@ -87,6 +93,8 @@
 }
 
 
+
+
 /* media queries */
 @media screen and (max-width: 1024px) {
     .about_container {
@@ -123,4 +131,11 @@
       margin: 1.5rem 0;
     }
   }
+
+
+
+
+
+
+
   
