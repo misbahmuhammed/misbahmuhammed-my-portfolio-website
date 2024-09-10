@@ -6,9 +6,9 @@ import { BsInstagram } from 'react-icons/bs';
 function footer() {
   return (
   <footer>
-    <a href="#" className='footer_logo'>Misbah A</a>
+    <a href="#home" className='footer_logo'>Misbah A</a>
     <ul className='links'>
-      <li><a href="#" rel="noreferrer" target="_blank">Home</a></li>
+      <li><a href="#home" rel="noreferrer" target="_blank">Home</a></li>
       <li><a href="#about" rel="noreferrer" target="_blank">About</a></li>
       <li><a href="#experience" rel="noreferrer" target="_blank">Experience</a></li>
       <li><a href="#services" rel="noreferrer" target="_blank">Services</a></li>
