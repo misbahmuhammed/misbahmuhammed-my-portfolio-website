@@ -1,8 +1,9 @@
 import React from 'react';
 import './about.css';
+import { BiFolderOpen } from 'react-icons/bi';
+
 import MEE from '../../assets/my2.jpeg';
 import { FaAward } from 'react-icons/fa';
-import { BiBold, BiFolderOpen } from 'react-icons/bi';
 
 function About() {
   return (

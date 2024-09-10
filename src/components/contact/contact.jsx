@@ -26,9 +26,8 @@ const Contact=()=> {
             <MdEmail className="contact_option-icon" />
             <h4>Email</h4>
             <h5>misbahmuhammedofficial@gmail.com</h5>
-            <a href="mailto:misbahmuhammedofficial@gmail.com" target="_blank">
-              Send A Message
-            </a>
+           <a href="mailto:misbahmuhammedofficial@gmail.com" target="_blank" rel="noreferrer"> Send A Message</a>
+
           </article>
           <article className="contact_option">
             <ImLinkedin className="contact_option-icon" />
