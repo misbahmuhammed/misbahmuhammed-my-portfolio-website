@@ -1,8 +1,5 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
@@ -21,8 +18,8 @@ function portfolio() {
           </div>
             <h3>Campus-E-Store-Ecommerce-Website-Django</h3>
             <div className="portfolio_item-cta">
-            <a href="https://github.com/misbahmuhammed/Campus-E-Store-Ecommerce-Website-Django" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com/misbahmuhammed/Campus-E-Store-Ecommerce-Website-Django" className='btn btn-primary'target='_blank' >Live Demo</a>
+            <a href="https://github.com/misbahmuhammed/Campus-E-Store-Ecommerce-Website-Django" className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href="https://github.com/misbahmuhammed/Campus-E-Store-Ecommerce-Website-Django" className='btn btn-primary'target='_blank' rel="noreferrer" >Live Demo</a>
             </div>
             
           
@@ -33,8 +30,8 @@ function portfolio() {
           </div>
             <h3>ToDo List-Django</h3>
             <div className="portfolio_item-cta">
-            <a href="https://github.com/misbahmuhammed/TODO_LIST" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com/misbahmuhammed/TODO_LIST" className='btn btn-primary'target='_blank' >Live Demo</a>
+            <a href="https://github.com/misbahmuhammed/TODO_LIST" className='btn' target='_blank'rel="noreferrer">Github</a>
+            <a href="https://github.com/misbahmuhammed/TODO_LIST" className='btn btn-primary'target='_blank' rel="noreferrer" >Live Demo</a>
             </div>
             
           
@@ -47,8 +44,8 @@ function portfolio() {
           </div>
             <h3>Personal Portfolio Website</h3>
             <div className="portfolio_item-cta">
-            <a href="https://github.com/misbahmuhammed/Personal-portfolio" className='btn' target='_blank'>Github</a>
-            <a href="https://misbah-portfolio.netlify.app/" className='btn btn-primary'target='_blank' >Live Demo</a>
+            <a href="https://github.com/misbahmuhammed/Personal-portfolio" className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href="https://misbah-portfolio.netlify.app/" className='btn btn-primary'target='_blank' rel="noreferrer" >Live Demo</a>
             </div>
             
           
@@ -59,8 +56,8 @@ function portfolio() {
           </div>
             <h3>This is the portfolio item</h3>
             <div className="portfolio_item-cta">
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary'target='_blank' >Live Demo</a>
+            <a href="https://github.com" className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href="https://github.com" className='btn btn-primary'target='_blank' rel="noreferrer" >Live Demo</a>
             </div>
             
           
@@ -71,8 +68,8 @@ function portfolio() {
           </div>
             <h3>This is the portfolio item</h3>
             <div className="portfolio_item-cta">
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary'target='_blank' >Live Demo</a>
+            <a href="https://github.com" className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href="https://github.com" className='btn btn-primary'target='_blank'rel="noreferrer" >Live Demo</a>
             </div>
             
           
@@ -83,8 +80,8 @@ function portfolio() {
           </div>
             <h3>This is the portfolio item</h3>
             <div className="portfolio_item-cta">
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary'target='_blank' >Live Demo</a>
+            <a href="https://github.com" className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href="https://github.com" className='btn btn-primary'target='_blank' rel="noreferrer">Live Demo</a>
             </div>
             
           

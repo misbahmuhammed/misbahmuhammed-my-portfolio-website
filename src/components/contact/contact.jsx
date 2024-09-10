@@ -35,7 +35,7 @@ const Contact=()=> {
             <h5>Misbah A</h5>
             <a
               href="https://www.linkedin.com/in/misbahmuhammed/message/"
-              target="_blank"
+              target="_blank" rel="noreferrer"
             >
               Send A Message
             </a>
@@ -46,7 +46,7 @@ const Contact=()=> {
             <h5>Misbah A</h5>
             <a
               href="https://api.whatsapp.com/send/?phone=7510764209&text&type=phone_number&app_absent=0"
-              target="_blank"
+             rel="noreferrer" target="_blank"
             >
               Send A Message
             </a>
